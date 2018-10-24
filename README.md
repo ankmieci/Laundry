@@ -1,3 +1,3 @@
 # Laundry
-# projekt: Pralka
-# autor: Aneta Kmiecik
+
+projekt: Pralka, autor: Aneta Kmiecik
